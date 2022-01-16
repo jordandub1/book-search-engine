@@ -1,0 +1,13 @@
+{
+  "username": "jordan2",
+  "email": "jordan@gmail.com",
+  "password": "password",
+  "savedBooks": {
+    "authors": ["Rick Riordan"],
+    "description": "Percy Jackson is about to be kicked out of boarding school . . . again. And that's the least of his troubles. Lately, mythological monsters and the gods of Mount Olympus seem to be walking straight out of the pages of Percy's Greek mythology textbook and into his life. And worse, he's angered a few of them. Zeus's master lightning bolt has been stolen, and Percy is the prime suspect. Now Percy and his friends have just ten days to find and return Zeus's stolen property and bring peace to a warring Mount Olympus. But to succeed on his quest, Percy will have to do more than catch the true thief: he must come to terms with the father who abandoned him; solve the riddle of the Oracle, which warns him of betrayal by a friend; and unravel a treachery more powerful than the gods themselves. This deluxe gift edition of the internationally best-selling first book in the Percy Jackson and the Olympians series, lavishly illustrated by series artist John Rocco, is a must-have for Riordan fans.",
+    "bookId": "Jcb-swEACAAJ",
+    "image": "http://books.google.com/books/content?id=Jcb-swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "link": "http://books.google.com/books?id=Jcb-swEACAAJ&dq=lightning+thief&hl=&source=gbs_api",
+    "title": "Percy Jackson and the Olympians The Lightning Thief Illustrated Edition"
+  }
+}

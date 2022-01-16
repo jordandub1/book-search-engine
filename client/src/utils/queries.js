@@ -1,14 +1,17 @@
-import { gql } from "@apollo/react-hooks";
+import gql from "graphql-tag";
 
 export const GET_ME = gql`
-  query me($username: String!) {
-    user(username: $username) {
+  {
+    me {
       _id
       username
       email
-      bookCount
       savedBooks {
         bookId
+        authors
+        description
+        image
+        link
         title
       }
     }
