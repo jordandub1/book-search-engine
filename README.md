@@ -30,7 +30,7 @@ npm install
 
 ## Deployed-Application
 
-[Link to deployed application](https://boook-search-engine.herokuapp.com//)
+[Link to deployed application](https://boook-search-engine.herokuapp.com/)
 
 ## Usage
 
