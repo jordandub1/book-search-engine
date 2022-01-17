@@ -12,6 +12,7 @@ The Book Search Engine App gives users the opportunity to search for any book an
 - [Installation](#installation)
 - [Screenshot](#screenshot)
 - [Deployed Application](#deployed-application)
+- [Usage](#usage)
 - [License](#license)
 - [Questions](#questions)
 
@@ -30,6 +31,15 @@ npm install
 ## Deployed-Application
 
 [Link to deployed application](https://boook-search-engine.herokuapp.com//)
+
+## Usage
+
+If you would like to login to the application, please use the demo credentials provided below:
+
+```
+Email: demo@mail.com
+Password: password
+```
 
 ## License
 
