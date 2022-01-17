@@ -42,5 +42,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": "v14.17.6",
+    "npm": "8.1.2"
   }
 }
