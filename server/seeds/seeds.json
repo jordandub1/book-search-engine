@@ -1,13 +1,23 @@
 {
-  "username": "jordan2",
-  "email": "jordan@gmail.com",
+  "username": "Demo",
+  "email": "demo@mail.com",
   "password": "password",
-  "savedBooks": {
-    "authors": ["Rick Riordan"],
-    "description": "Percy Jackson is about to be kicked out of boarding school . . . again. And that's the least of his troubles. Lately, mythological monsters and the gods of Mount Olympus seem to be walking straight out of the pages of Percy's Greek mythology textbook and into his life. And worse, he's angered a few of them. Zeus's master lightning bolt has been stolen, and Percy is the prime suspect. Now Percy and his friends have just ten days to find and return Zeus's stolen property and bring peace to a warring Mount Olympus. But to succeed on his quest, Percy will have to do more than catch the true thief: he must come to terms with the father who abandoned him; solve the riddle of the Oracle, which warns him of betrayal by a friend; and unravel a treachery more powerful than the gods themselves. This deluxe gift edition of the internationally best-selling first book in the Percy Jackson and the Olympians series, lavishly illustrated by series artist John Rocco, is a must-have for Riordan fans.",
-    "bookId": "Jcb-swEACAAJ",
-    "image": "http://books.google.com/books/content?id=Jcb-swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "link": "http://books.google.com/books?id=Jcb-swEACAAJ&dq=lightning+thief&hl=&source=gbs_api",
-    "title": "Percy Jackson and the Olympians The Lightning Thief Illustrated Edition"
-  }
+  "savedBooks": [
+    {
+      "authors": ["Rick Riordan"],
+      "description": "Percy Jackson is about to be kicked out of boarding school . . . again. And that's the least of his troubles. Lately, mythological monsters and the gods of Mount Olympus seem to be walking straight out of the pages of Percy's Greek mythology textbook and into his life. And worse, he's angered a few of them. Zeus's master lightning bolt has been stolen, and Percy is the prime suspect. Now Percy and his friends have just ten days to find and return Zeus's stolen property and bring peace to a warring Mount Olympus. But to succeed on his quest, Percy will have to do more than catch the true thief: he must come to terms with the father who abandoned him; solve the riddle of the Oracle, which warns him of betrayal by a friend; and unravel a treachery more powerful than the gods themselves. This deluxe gift edition of the internationally best-selling first book in the Percy Jackson and the Olympians series, lavishly illustrated by series artist John Rocco, is a must-have for Riordan fans.",
+      "bookId": "Jcb-swEACAAJ",
+      "image": "http://books.google.com/books/content?id=Jcb-swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "link": "http://books.google.com/books?id=Jcb-swEACAAJ&dq=lightning+thief&hl=&source=gbs_api",
+      "title": "Percy Jackson and the Olympians The Lightning Thief Illustrated Edition"
+    },
+    {
+      "authors": ["F. SCOTT FITZGERALD"],
+      "description": "The only authorized edition of the twentieth-century classic, featuring F. Scott Fitzgerald’s final revisions, a foreword by his granddaughter, and a new introduction by National Book Award winner Jesmyn Ward. Nominated as one of America’s best-loved novels by PBS’s The Great American Read. The Great Gatsby, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. First published in 1925, this quintessential novel of the Jazz Age has been acclaimed by generations of readers. The story of the mysteriously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted “gin was the national drink and sex the national obsession,” it is an exquisitely crafted tale of America in the 1920s. The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922. Many literary critics consider The Great Gatsby to be one of the greatest novels ever written. The story of the book primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession to reunite with his ex-lover, the beautiful former debutante Daisy Buchanan. Considered to be Fitzgerald’s magnum opus, The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval and excess, creating a portrait of the Roaring Twenties that has been described as a cautionary[a] tale regarding the American Dream. “The Great Gatsby” is a 1925 novel written by American author Francis Scott Fitzgerald (1896-1940) that follows a cast of characters living in the fictional town of West Egg on prosperous Long Island in the summer of 1922. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession for the beautiful former debutante Daisy Buchanan. Considered to be Fitzgerald’s magnum opus, The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Jazz Age or the Roaring Twenties that has been described as a cautionary tale regarding the American Dream.",
+      "bookId": "IuoxEAAAQBAJ",
+      "image": "http://books.google.com/books/content?id=IuoxEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "link": "http://books.google.com/books?id=IuoxEAAAQBAJ&printsec=frontcover&dq=great+gatsby&hl=&cd=1&source=gbs_api",
+      "title": "THE GREAT GATSBY"
+    }
+  ]
 }
